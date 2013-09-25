@@ -3,6 +3,12 @@
 - [Rich Hickey, The Value of Values](http://www.youtube.com/watch?v=-6BsiVyC1kM)
 - [Rich Hickey, Deconstructing the database](http://www.youtube.com/watch?v=Cym4TZwTCNU)
 - [Hewitt, Meijer and Szyperski: The Actor Model](http://www.youtube.com/watch?v=7erJ1DV_Tlo)
+- [Martin Fowler, Introduction to NoSQL](http://www.youtube.com/watch?v=qI_g07C_Q5I)
+- [Logan Campbell, A monad is not a burrito](http://www.youtube.com/watch?v=46Z7Hq4fhN0)
+- [Dmitri Nesteruk, F# Experiences & Perspectives](http://www.youtube.com/watch?v=SMn1alN7_C0)
+- [Brian Beckman, Don't fear the Monad](http://www.youtube.com/watch?v=ZhuHCtR3xq8)
+- [Douglas Crockford, Monads and Gonads](http://www.youtube.com/watch?v=b0EF0VTs9Dc)
+- [Brian Lonsdorf, Monads, Monoids, and Make Believe](http://www.youtube.com/watch?v=ww2Z1URx-G0)
 - MIT 6.001 Structure and Interpretation, 1986
  - [1A: Overview and Introduction to Lisp](http://www.youtube.com/watch?v=2Op3QLzMgSY)
  - [1B: Procedures and Processes; Substitution Model](http://www.youtube.com/watch?v=dlbMuv-jix8)
