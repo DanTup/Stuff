@@ -1,5 +1,8 @@
 # Watched
 
+- [Rich Hickey, The Value of Values](http://www.youtube.com/watch?v=-6BsiVyC1kM)
+- [Rich Hickey, Deconstructing the database](http://www.youtube.com/watch?v=Cym4TZwTCNU)
+- [Hewitt, Meijer and Szyperski: The Actor Model](http://www.youtube.com/watch?v=7erJ1DV_Tlo)
 - MIT 6.001 Structure and Interpretation, 1986
  - [1A: Overview and Introduction to Lisp](http://www.youtube.com/watch?v=2Op3QLzMgSY)
  - [1B: Procedures and Processes; Substitution Model](http://www.youtube.com/watch?v=dlbMuv-jix8)
@@ -25,3 +28,11 @@
  - [9B: Explicit-control Evaluator](http://www.youtube.com/watch?v=SLcZXbyGC3E)
  - [10A: Compilation](http://www.youtube.com/watch?v=kNmiTTKiYd4)
  - [10B: Storage Allocation and Garbage Collection](http://www.youtube.com/watch?v=2s2_FAf-yQs)
+- [Rich Hickey, Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
+- [Rich Hickey, Hammock Driven Development?](http://www.youtube.com/watch?v=f84n5oFoZBc)
+- [Rich Hickey, Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
+- [Rich Hickey, The Language of the System](http://www.youtube.com/watch?v=ROor6_NGIWU)
+- [Rich Hickey, Design, Composition and Performance](http://www.infoq.com/presentations/Design-Composition-Performance)
+- [Philip Laureano, I Can't Believe It's Not Roslyn](http://vimeo.com/43612919)
+- [Udacity - Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
+- [Guy Steele, How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
