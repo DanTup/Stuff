@@ -43,15 +43,11 @@
 - [Udacity - Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
 - [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
 - [Eric Evans: Email, Ubiquitous Language, Visualization & Clojure](http://skillsmatter.com/podcast/design-architecture/keynote-eric-evans)
-- [MetaProgramming In Java](http://www.youtube.com/watch?v=0b0hrd6k1Zs)
+- [Abdelmonaim Remani: MetaProgramming In Java](http://www.youtube.com/watch?v=0b0hrd6k1Zs)
+- [Bart De Smet: MinLINQ - The Essence of LINQ](http://channel9.msdn.com/Shows/Going+Deep/Bart-De-Smet-MinLINQ-The-Essence-of-LINQ)
+- [Bart De Smet: Observations on IQbservable - The Dual of IQueryable](http://channel9.msdn.com/Shows/Going+Deep/Bart-De-Smet-Observations-on-IQbservable-The-Dual-of-IQueryable)
 
-- []
-
-# Papers'n'Stuff
-
-- A few Bart de (boy genius) Smet talks about linq and rx
- - [Going Balls Deep: Bart De Smet MinLINQ The Essence of LINQ](http://channel9.msdn.com/Shows/Going+Deep/Bart-De-Smet-MinLINQ-The-Essence-of-LINQ)
- - [Observations on IQbservable The Dual of IQueryable](http://channel9.msdn.com/Shows/Going+Deep/Bart-De-Smet-Observations-on-IQbservable-The-Dual-of-IQueryable)
+# Papers 'n' Stuff
 
 - Erik Meijer did some great work in making NoSql play nicely with Sql :-)
  - [A co-Relational Model of Data for Large Shared Data Banks](http://queue.acm.org/detail.cfm?id=1961297) 
