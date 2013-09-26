@@ -43,3 +43,4 @@
 - [Udacity - Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
 - [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
 - [Eric Evans: Email, Ubiquitous Language, Visualization & Clojure](http://skillsmatter.com/podcast/design-architecture/keynote-eric-evans)
+- [MetaProgramming In Java](http://www.youtube.com/watch?v=0b0hrd6k1Zs)
