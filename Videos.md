@@ -14,6 +14,7 @@
 - [Rich Hickey: Design, Composition and Performance](http://www.infoq.com/presentations/Design-Composition-Performance)
 - [Philip Laureano: I Can't Believe It's Not Roslyn](http://vimeo.com/43612919)
 - [Arlo Belshee: Mocks; The Code Smell](http://www.youtube.com/watch?v=Giqewl1zT_A)
+- [Jack Diederich: Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes)
 - MIT 6.001 Structure and Interpretation, 1986
  - [1A: Overview and Introduction to Lisp](http://www.youtube.com/watch?v=2Op3QLzMgSY)
  - [1B: Procedures and Processes; Substitution Model](http://www.youtube.com/watch?v=dlbMuv-jix8)
