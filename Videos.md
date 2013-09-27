@@ -15,6 +15,7 @@
 - [Philip Laureano: I Can't Believe It's Not Roslyn](http://vimeo.com/43612919)
 - [Arlo Belshee: Mocks; The Code Smell](http://www.youtube.com/watch?v=Giqewl1zT_A)
 - [Jack Diederich: Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes)
+- [Rich Hickey: Hammock Driven Development?](http://www.youtube.com/watch?v=f84n5oFoZBc)
 - MIT 6.001 Structure and Interpretation, 1986
  - [1A: Overview and Introduction to Lisp](http://www.youtube.com/watch?v=2Op3QLzMgSY)
  - [1B: Procedures and Processes; Substitution Model](http://www.youtube.com/watch?v=dlbMuv-jix8)
@@ -41,7 +42,6 @@
  - [10A: Compilation](http://www.youtube.com/watch?v=kNmiTTKiYd4)
  - [10B: Storage Allocation and Garbage Collection](http://www.youtube.com/watch?v=2s2_FAf-yQs)
 - [Rich Hickey: Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
-- [Rich Hickey: Hammock Driven Development?](http://www.youtube.com/watch?v=f84n5oFoZBc)
 - [Udacity - Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
 - [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
 - [Eric Evans: Email, Ubiquitous Language, Visualization & Clojure](http://skillsmatter.com/podcast/design-architecture/keynote-eric-evans)
