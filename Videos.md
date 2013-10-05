@@ -19,6 +19,10 @@
 - [Eric Evans: Email, Ubiquitous Language, Visualization & Clojure](http://skillsmatter.com/podcast/design-architecture/keynote-eric-evans)
 - [Bart De Smet: Observations on IQbservable - The Dual of IQueryable](http://channel9.msdn.com/Shows/Going+Deep/Bart-De-Smet-Observations-on-IQbservable-The-Dual-of-IQueryable)
 - [Bart De Smet: MinLINQ - The Essence of LINQ](http://channel9.msdn.com/Shows/Going+Deep/Bart-De-Smet-MinLINQ-The-Essence-of-LINQ)
+- [Phil Trelford: Examples, Examples, Examples](http://skillsmatter.com/podcast/java-jee/examples-examples-examples)
+- [Greg Young: CQRS/DDD](http://www.youtube.com/watch?v=KXqrBySgX-s)
+- [Tao Liu: F# Design Patterns](http://channel9.msdn.com/posts/Tao-Liu-F-Design-Patterns)
+- [Paul Betts: Live Coding Episode 0x1; Implementing Combined Commands in ReactiveUI](https://www.youtube.com/watch?v=ufjEG4OcOc0#t=107)
 - MIT 6.001 Structure and Interpretation, 1986
  - [1A: Overview and Introduction to Lisp](http://www.youtube.com/watch?v=2Op3QLzMgSY)
  - [1B: Procedures and Processes; Substitution Model](http://www.youtube.com/watch?v=dlbMuv-jix8)
