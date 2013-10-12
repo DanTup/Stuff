@@ -52,7 +52,7 @@
 - [Udacity - Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
 - [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
 - [Abdelmonaim Remani: MetaProgramming In Java](http://www.youtube.com/watch?v=0b0hrd6k1Zs)
-- [Ryan Riley; Building Better Web Apps with FSharp](http://vimeo.com/52610636)
+- [Daniel Mohl; Building Better Web Apps with FSharp](http://vimeo.com/52610636)
 
 
 # Papers 'n' Stuff
