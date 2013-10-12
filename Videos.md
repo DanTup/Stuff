@@ -34,13 +34,13 @@
  - [4B: Generic Operators](http://www.youtube.com/watch?v=h6Z7vx9iUB8)
  - [5A: Assignment, State, and Side-effects](http://www.youtube.com/watch?v=jl8EHP1WrWY)
  - [5B: Computational Objects](http://www.youtube.com/watch?v=SsBxcpkyMMw)
+ - [6A: Streams, Part 1](http://www.youtube.com/watch?v=a2Qt9uxhNSM)
+ - [6B: Streams, Part 2](http://www.youtube.com/watch?v=DCub3iqteuI)
+ - [7A: Metacircular Evaluator, Part 1](http://www.youtube.com/watch?v=0m6hoOelZH8)
 
 # To Watch
 
 - MIT 6.001 Structure and Interpretation, 1986
- - [6A: Streams, Part 1](http://www.youtube.com/watch?v=a2Qt9uxhNSM)
- - [6B: Streams, Part 2](http://www.youtube.com/watch?v=DCub3iqteuI)
- - [7A: Metacircular Evaluator, Part 1](http://www.youtube.com/watch?v=0m6hoOelZH8)
  - [7B: Metacircular Evaluator, Part 2](http://www.youtube.com/watch?v=t5EI5fXX8K0)
  - [8A: Logic Programming, Part 1](http://www.youtube.com/watch?v=cyVXjnFL2Ps)
  - [8B: Logic Programming, Part 2](http://www.youtube.com/watch?v=R3uRidfSpc4)
