@@ -48,6 +48,7 @@
  - [9B: Explicit-control Evaluator](http://www.youtube.com/watch?v=SLcZXbyGC3E)
  - [10A: Compilation](http://www.youtube.com/watch?v=kNmiTTKiYd4)
  - [10B: Storage Allocation and Garbage Collection](http://www.youtube.com/watch?v=2s2_FAf-yQs)
+- [Ian Cooper: TDD, where did it all go wrong](http://vimeo.com/68375232)
 - [Rich Hickey: Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 - [Udacity - Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
 - [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
