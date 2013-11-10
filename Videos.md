@@ -42,7 +42,7 @@
  - [7B: Metacircular Evaluator, Part 2](http://www.youtube.com/watch?v=t5EI5fXX8K0)
  - [8A: Logic Programming, Part 1](http://www.youtube.com/watch?v=cyVXjnFL2Ps)
  - [8B: Logic Programming, Part 2](http://www.youtube.com/watch?v=R3uRidfSpc4)
- - 
+
 # To Watch
 
 - MIT 6.001 Structure and Interpretation, 1986
