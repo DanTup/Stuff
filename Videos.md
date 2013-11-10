@@ -71,5 +71,5 @@
 - [Udacity: Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
 - [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
 - [Daniel Mohl: Building Better Web Apps with FSharp](http://vimeo.com/52610636)
-- [DotNetRocks: Bryan Hunter and OJ Reeves Program in Erlang](http://dotnetrocks.com/default.aspx?showNum=753)
+- [(Podcast) DotNetRocks: Bryan Hunter and OJ Reeves Program in Erlang](http://dotnetrocks.com/default.aspx?showNum=753)
 
