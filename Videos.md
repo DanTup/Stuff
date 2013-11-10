@@ -23,6 +23,8 @@
 - [Greg Young: CQRS/DDD](http://www.youtube.com/watch?v=KXqrBySgX-s)
 - [Tao Liu: F# Design Patterns](http://channel9.msdn.com/posts/Tao-Liu-F-Design-Patterns)
 - [Paul Betts: Live Coding Episode 0x1; Implementing Combined Commands in ReactiveUI](https://www.youtube.com/watch?v=ufjEG4OcOc0#t=107)
+- [Abdelmonaim Remani: MetaProgramming In Java](http://www.youtube.com/watch?v=0b0hrd6k1Zs)
+- [Ian Cooper: TDD, where did it all go wrong](http://vimeo.com/68375232)
 - MIT 6.001 Structure and Interpretation, 1986
  - [1A: Overview and Introduction to Lisp](http://www.youtube.com/watch?v=2Op3QLzMgSY)
  - [1B: Procedures and Processes; Substitution Model](http://www.youtube.com/watch?v=dlbMuv-jix8)
@@ -37,22 +39,20 @@
  - [6A: Streams, Part 1](http://www.youtube.com/watch?v=a2Qt9uxhNSM)
  - [6B: Streams, Part 2](http://www.youtube.com/watch?v=DCub3iqteuI)
  - [7A: Metacircular Evaluator, Part 1](http://www.youtube.com/watch?v=0m6hoOelZH8)
-
-# To Watch
-
-- MIT 6.001 Structure and Interpretation, 1986
  - [7B: Metacircular Evaluator, Part 2](http://www.youtube.com/watch?v=t5EI5fXX8K0)
  - [8A: Logic Programming, Part 1](http://www.youtube.com/watch?v=cyVXjnFL2Ps)
  - [8B: Logic Programming, Part 2](http://www.youtube.com/watch?v=R3uRidfSpc4)
+ - 
+# To Watch
+
+- MIT 6.001 Structure and Interpretation, 1986
  - [9A: Register Machines](http://www.youtube.com/watch?v=jPDAPmx4pXE)
  - [9B: Explicit-control Evaluator](http://www.youtube.com/watch?v=SLcZXbyGC3E)
  - [10A: Compilation](http://www.youtube.com/watch?v=kNmiTTKiYd4)
  - [10B: Storage Allocation and Garbage Collection](http://www.youtube.com/watch?v=2s2_FAf-yQs)
-- [Ian Cooper: TDD, where did it all go wrong](http://vimeo.com/68375232)
 - [Rich Hickey: Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 - [Udacity - Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
 - [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
-- [Abdelmonaim Remani: MetaProgramming In Java](http://www.youtube.com/watch?v=0b0hrd6k1Zs)
 - [Daniel Mohl; Building Better Web Apps with FSharp](http://vimeo.com/52610636)
 
 
