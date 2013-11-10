@@ -1,4 +1,4 @@
-# Watched / Read
+# Watched
 
 - [Rich Hickey: The Value of Values](http://www.youtube.com/watch?v=-6BsiVyC1kM)
 - [Rich Hickey: Deconstructing the database](http://www.youtube.com/watch?v=Cym4TZwTCNU)
