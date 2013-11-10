@@ -78,5 +78,6 @@
  - [A co-Relational Model of Data for Large Shared Data Banks](http://queue.acm.org/detail.cfm?id=1961297) 
  - [SQL versus coSQL — a compendium to Erik Meijer’s paper](http://wwwhome.ewi.utwente.nl/~fokkinga/mmf2011p.pdf) 
  - [Slides from Erik Meijers NoSQL is CoSQL talk](http://gotocon.com/dl/jaoo-brisbane-2010/slides/ErikMeijer_bKeynotebExploringNoSQL.pdf)
+ - [John Hughes; 1984: Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
   
  
