@@ -25,6 +25,7 @@
 - [Paul Betts: Live Coding Episode 0x1; Implementing Combined Commands in ReactiveUI](https://www.youtube.com/watch?v=ufjEG4OcOc0#t=107)
 - [Abdelmonaim Remani: MetaProgramming In Java](http://www.youtube.com/watch?v=0b0hrd6k1Zs)
 - [Ian Cooper: TDD, where did it all go wrong](http://vimeo.com/68375232)
+- [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 - MIT 6.001 Structure and Interpretation, 1986
  - [1A: Overview and Introduction to Lisp](http://www.youtube.com/watch?v=2Op3QLzMgSY)
  - [1B: Procedures and Processes; Substitution Model](http://www.youtube.com/watch?v=dlbMuv-jix8)
@@ -42,6 +43,12 @@
  - [7B: Metacircular Evaluator, Part 2](http://www.youtube.com/watch?v=t5EI5fXX8K0)
  - [8A: Logic Programming, Part 1](http://www.youtube.com/watch?v=cyVXjnFL2Ps)
  - [8B: Logic Programming, Part 2](http://www.youtube.com/watch?v=R3uRidfSpc4)
+- C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals
+ - [1: Introduction](https://www.youtube.com/watch?v=UIUlFQH4Cvo)
+ - [2: First Steps](https://www.youtube.com/watch?v=Sm7aEU-8enI)
+ - [3: Types and Classes](https://www.youtube.com/watch?v=4Z6BlLqAqt8)
+ - [4: Defining Functions](https://www.youtube.com/watch?v=fQU99SJdWGY)
+ - [5: List Comprehensions](https://www.youtube.com/watch?v=cdPyykm2-gg)
 
 # To Watch
 
@@ -50,6 +57,15 @@
  - [9B: Explicit-control Evaluator](http://www.youtube.com/watch?v=SLcZXbyGC3E)
  - [10A: Compilation](http://www.youtube.com/watch?v=kNmiTTKiYd4)
  - [10B: Storage Allocation and Garbage Collection](http://www.youtube.com/watch?v=2s2_FAf-yQs)
+- C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals
+ - [6: Recursive Functions](https://www.youtube.com/watch?v=2ECvUT3nbqk)
+ - [7: Higher-Order Functions](https://www.youtube.com/watch?v=YRTQkBO2v-s)
+ - [8: Functional Parsers](https://www.youtube.com/watch?v=OrAVS4QbMqo)
+ - [9: Interactive Programs](https://www.youtube.com/watch?v=1Q97gHX5jyA)
+ - [10: Declaring Types and Classes](https://www.youtube.com/watch?v=H3nAwD0p9tc)
+ - [11: The Countdown Problem](https://www.youtube.com/watch?v=rlwSBNI9bXE)
+ - [12: Lazy Evaluation](https://www.youtube.com/watch?v=vos_D8bdoUE)
+ - [13: Equational Reasoning](https://www.youtube.com/watch?v=INs6nKItmTk)
 - [Rich Hickey: Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 - [Udacity: Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
 - [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
