@@ -1,4 +1,4 @@
-# Watched
+# Watched / Read
 
 - [Rich Hickey: The Value of Values](http://www.youtube.com/watch?v=-6BsiVyC1kM)
 - [Rich Hickey: Deconstructing the database](http://www.youtube.com/watch?v=Cym4TZwTCNU)
@@ -13,6 +13,7 @@
 - [Phil Trelford: Examples, Examples, Examples](http://skillsmatter.com/podcast/java-jee/examples-examples-examples)
 - [Ian Cooper: TDD, where did it all go wrong](http://vimeo.com/68375232)
 - [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
+- [(Paper) John Hughes; 1984: Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
 - MIT 6.001 Structure and Interpretation, 1986
  - [1A: Overview and Introduction to Lisp](http://www.youtube.com/watch?v=2Op3QLzMgSY)
  - [1B: Procedures and Processes; Substitution Model](http://www.youtube.com/watch?v=dlbMuv-jix8)
@@ -72,12 +73,3 @@
 - [Daniel Mohl: Building Better Web Apps with FSharp](http://vimeo.com/52610636)
 - [DotNetRocks: Bryan Hunter and OJ Reeves Program in Erlang](http://dotnetrocks.com/default.aspx?showNum=753)
 
-# Papers 'n' Stuff
-
-- Erik Meijer did some great work in making NoSql play nicely with Sql :-)
- - [A co-Relational Model of Data for Large Shared Data Banks](http://queue.acm.org/detail.cfm?id=1961297) 
- - [SQL versus coSQL — a compendium to Erik Meijer’s paper](http://wwwhome.ewi.utwente.nl/~fokkinga/mmf2011p.pdf) 
- - [Slides from Erik Meijers NoSQL is CoSQL talk](http://gotocon.com/dl/jaoo-brisbane-2010/slides/ErikMeijer_bKeynotebExploringNoSQL.pdf)
- - [John Hughes; 1984: Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
-  
- 
