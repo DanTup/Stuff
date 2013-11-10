@@ -1,6 +1,7 @@
 # Watched
 
 - [Rich Hickey: The Value of Values](http://www.youtube.com/watch?v=-6BsiVyC1kM)
+- [Rich Hickey: Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 - [Rich Hickey: Deconstructing the database](http://www.youtube.com/watch?v=Cym4TZwTCNU)
 - [Martin Fowler: Introduction to NoSQL](http://www.youtube.com/watch?v=qI_g07C_Q5I)
 - [Rich Hickey: Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
@@ -67,7 +68,6 @@
  - [11: The Countdown Problem](https://www.youtube.com/watch?v=rlwSBNI9bXE)
  - [12: Lazy Evaluation](https://www.youtube.com/watch?v=vos_D8bdoUE)
  - [13: Equational Reasoning](https://www.youtube.com/watch?v=INs6nKItmTk)
-- [Rich Hickey: Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 - [Udacity: Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
 - [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
 - [Daniel Mohl: Building Better Web Apps with FSharp](http://vimeo.com/52610636)
