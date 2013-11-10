@@ -51,10 +51,10 @@
  - [10A: Compilation](http://www.youtube.com/watch?v=kNmiTTKiYd4)
  - [10B: Storage Allocation and Garbage Collection](http://www.youtube.com/watch?v=2s2_FAf-yQs)
 - [Rich Hickey: Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
-- [Udacity - Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
+- [Udacity: Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
 - [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
-- [Daniel Mohl; Building Better Web Apps with FSharp](http://vimeo.com/52610636)
-
+- [Daniel Mohl: Building Better Web Apps with FSharp](http://vimeo.com/52610636)
+- [DotNetRocks: Bryan Hunter and OJ Reeves Program in Erlang](http://dotnetrocks.com/default.aspx?showNum=753)
 
 # Papers 'n' Stuff
 
