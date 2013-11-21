@@ -72,4 +72,5 @@
 - [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
 - [Daniel Mohl: Building Better Web Apps with FSharp](http://vimeo.com/52610636)
 - [(Podcast) DotNetRocks: Bryan Hunter and OJ Reeves Program in Erlang](http://dotnetrocks.com/default.aspx?showNum=753)
+- [David West - OOP is dead... Long Live OODD](http://vimeo.com/77415896)
 
