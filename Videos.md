@@ -38,6 +38,11 @@
  - [3: Types and Classes](https://www.youtube.com/watch?v=4Z6BlLqAqt8)
  - [4: Defining Functions](https://www.youtube.com/watch?v=fQU99SJdWGY)
  - [5: List Comprehensions](https://www.youtube.com/watch?v=cdPyykm2-gg)
+ - [6: Recursive Functions](https://www.youtube.com/watch?v=2ECvUT3nbqk)
+ - [7: Higher-Order Functions](https://www.youtube.com/watch?v=YRTQkBO2v-s)
+ - [8: Functional Parsers](https://www.youtube.com/watch?v=OrAVS4QbMqo)
+ - [9: Interactive Programs](https://www.youtube.com/watch?v=1Q97gHX5jyA)
+- [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
 - [Hewitt, Meijer and Szyperski: The Actor Model](http://www.youtube.com/watch?v=7erJ1DV_Tlo)
 - [Logan Campbell: A monad is not a burrito](http://www.youtube.com/watch?v=46Z7Hq4fhN0)
 - [Dmitri Nesteruk: F# Experiences & Perspectives](http://www.youtube.com/watch?v=SMn1alN7_C0)
@@ -51,6 +56,8 @@
 - [Tao Liu: F# Design Patterns](http://channel9.msdn.com/posts/Tao-Liu-F-Design-Patterns)
 - [Paul Betts: Live Coding Episode 0x1; Implementing Combined Commands in ReactiveUI](https://www.youtube.com/watch?v=ufjEG4OcOc0#t=107)
 - [Abdelmonaim Remani: MetaProgramming In Java](http://www.youtube.com/watch?v=0b0hrd6k1Zs)
+- [David West - OOP is dead... Long Live OODD](http://vimeo.com/77415896)
+
 
 # To Watch
 
@@ -60,17 +67,11 @@
  - [10A: Compilation](http://www.youtube.com/watch?v=kNmiTTKiYd4)
  - [10B: Storage Allocation and Garbage Collection](http://www.youtube.com/watch?v=2s2_FAf-yQs)
 - C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals
- - [6: Recursive Functions](https://www.youtube.com/watch?v=2ECvUT3nbqk)
- - [7: Higher-Order Functions](https://www.youtube.com/watch?v=YRTQkBO2v-s)
- - [8: Functional Parsers](https://www.youtube.com/watch?v=OrAVS4QbMqo)
- - [9: Interactive Programs](https://www.youtube.com/watch?v=1Q97gHX5jyA)
  - [10: Declaring Types and Classes](https://www.youtube.com/watch?v=H3nAwD0p9tc)
  - [11: The Countdown Problem](https://www.youtube.com/watch?v=rlwSBNI9bXE)
  - [12: Lazy Evaluation](https://www.youtube.com/watch?v=vos_D8bdoUE)
  - [13: Equational Reasoning](https://www.youtube.com/watch?v=INs6nKItmTk)
 - [Udacity: Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
-- [Guy Steele: How to Think about Parallel Programming](http://www.infoq.com/presentations/Thinking-Parallel-Programming)
 - [Daniel Mohl: Building Better Web Apps with FSharp](http://vimeo.com/52610636)
 - [(Podcast) DotNetRocks: Bryan Hunter and OJ Reeves Program in Erlang](http://dotnetrocks.com/default.aspx?showNum=753)
-- [David West - OOP is dead... Long Live OODD](http://vimeo.com/77415896)
 
