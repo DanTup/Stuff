@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<title>Slides</title>
+	<link rel="stylesheet" href="Styles.css" />
+	<script src="http://gnab.github.io/remark/downloads/remark-0.6.3.min.js"></script>
+</head>
+<body>
+	<script>
+		var req = new XMLHttpRequest();
+		req.open('GET', 'Slides.txt', false);
+		req.send();
+		var slideshow = remark.create({ ratio: '16:10', source: req.responseText.trim().replace(/\r/g, '') });
+	</script>
+</body>
+</html>

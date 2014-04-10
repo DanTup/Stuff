@@ -1,0 +1,67 @@
+﻿class: center, middle, inverse, start
+
+# Service Bus
+.footnote[Danny Tuppeny]
+
+???
+
+Don't forget to smile at the camera!
+
+---
+
+# Agenda
+
+1. What is a Service Bus?
+
+???
+
+Tell some funny joke about buses!
+
+--
+
+1. Why do we need a Service Bus?
+
+???
+
+We don't really _need_ one, but it'd be cool, right?
+
+--
+
+1. Why do _we_ need a Service Bus?
+
+???
+
+Well, we need all the help we can get!
+
+--
+
+1. How do we get one?
+
+???
+
+The problem with buses is that they're never there when you really need them :(
+
+--
+
+1. What does it cost?
+
+???
+
+If we give the cost in USD, it might seem cheaper!
+
+---
+
+class: center, middle, inverse
+
+# ok, let's go!
+
+---
+
+class: center, middle, inverse
+
+## ( sorry, this slide thing is _cooooool_ )
+:)
+
+--
+
+![](http://multiplemummy.com/site/wp-content/uploads/2011/08/Postman-pat1.jpg)
