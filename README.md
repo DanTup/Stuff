@@ -5,11 +5,11 @@ A very empty slideshow using [remark](http://remarkjs.com/), a Markdown-driven s
 
 Slides are driven from this [Markdown Text File](Slides.txt)
 
-- Open the slideshow [here](http://blog.dantup.com/Stuff/Index.html)
-- Press 'c' to clone into a new window (so you have one for presenting, one for external screen)
-- Press 'f' to toggle fullscreen
-- Press 'p' to set current window into presenter mode
-- Use cursor keys throughto advance through slides
+1. Open the slideshow [here](http://blog.dantup.com/Stuff/Index.html)
+2. Press 'c' to clone into a new window (so you have one for presenting, one for external screen)
+3. Press 'f' to toggle fullscreen
+4. Press 'p' to set current window into presenter mode
+5. Use cursor keys throughto advance through slides
 
 Some cool things I like:
 
