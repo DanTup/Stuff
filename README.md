@@ -18,3 +18,4 @@ Some cool things I like:
 3. The default styles I stole from the [remark website](http://remarkjs.com/) look snazzy (I'm no designer!)
 4. You can "append to previous slide" by using "--" instead of "---" between slides
 5. Speak notes get appended in the same way; effectively giving you synchronised speaker notes with each itm appearing (this is shown in the [demo slides](http://blog.dantup.com/Stuff/Index.html), press 'p' for presenter mode)
+6. Customise the layout etc. as required with _CSS_!
