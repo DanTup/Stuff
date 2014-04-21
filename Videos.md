@@ -93,7 +93,6 @@
  - [8a: Defining types](https://www.youtube.com/watch?v=pIW-_E0w6h4)
  - [8b: Defining typeclasses](https://www.youtube.com/watch?v=2nSbni03pjI)
  - [9: Input and output](https://www.youtube.com/watch?v=5k3_olHdhjQ)
-- [Will Smith: Porting Quake III to F#: A Journey to Functional Programming](https://www.youtube.com/watch?v=TonbC-hhn7A)
 - [Akim Boyko: Property-based testing using FsCheck for F# and C#](http://akimboyko.github.io/presentations/property-based_testing.html)
 - [Rob Lyndon: Deep Machine Learning with F#](https://skillsmatter.com/skillscasts/5161-the-flying-fox-deep-machine-learning-with-f)
 - [Udacity: Introduction to Artificial Intelligence](https://www.udacity.com/course/cs271)
