@@ -57,6 +57,7 @@
 - [Brian Hurt: A Pragmatic Case for Static Typing](http://vimeo.com/72870631)
 - [Why Haskell is Great](https://www.youtube.com/watch?v=RqvCNb7fKsg)
 - [Will Smith: Porting Quake III to F#: A Journey to Functional Programming](http://vimeo.com/89675667)
+- [Rúnar Bjarnason: Functional Programming is Terrible](https://www.youtube.com/watch?v=hzf3hTUKk8U)
 - [Brian Beckman: Don't fear the Monad](http://www.youtube.com/watch?v=ZhuHCtR3xq8)
 - [Douglas Crockford: Monads and Gonads](http://www.youtube.com/watch?v=b0EF0VTs9Dc)
 - [Vojta Jina: Dependency Injection](https://www.youtube.com/watch?v=_OGGsf1ZXMs)
