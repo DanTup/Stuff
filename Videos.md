@@ -58,6 +58,7 @@
 - [Why Haskell is Great](https://www.youtube.com/watch?v=RqvCNb7fKsg)
 - [Brian Beckman: Don't fear the Monad](http://www.youtube.com/watch?v=ZhuHCtR3xq8)
 - [Douglas Crockford: Monads and Gonads](http://www.youtube.com/watch?v=b0EF0VTs9Dc)
+- [Vojta Jina: Dependency Injection](https://www.youtube.com/watch?v=_OGGsf1ZXMs)
 - [Brian Lonsdorf: Monads, Monoids, and Make Believe](http://www.youtube.com/watch?v=ww2Z1URx-G0)
 - [Philip Laureano: I Can't Believe It's Not Roslyn](http://vimeo.com/43612919)
 - [Jack Diederich: Stop Writing Classes](http://pyvideo.org/video/880/stop-writing-classes)
