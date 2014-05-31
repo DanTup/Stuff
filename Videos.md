@@ -1,5 +1,6 @@
 # Watched
 
+- [Bret Victor: Inventing on Principle](http://vimeo.com/36579366)
 - [Rich Hickey: The Value of Values](http://www.youtube.com/watch?v=-6BsiVyC1kM)
 - [Rich Hickey: Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
 - [Rich Hickey: Deconstructing the database](http://www.youtube.com/watch?v=Cym4TZwTCNU)
@@ -14,6 +15,7 @@
 - [Phil Trelford: Examples, Examples, Examples](http://skillsmatter.com/podcast/java-jee/examples-examples-examples)
 - [Ian Cooper: TDD, where did it all go wrong](http://vimeo.com/68375232)
 - [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
+- [Guy Steele: Growing a Language](http://youtu.be/_ahvzDzKdB0)
 - [(Paper) John Hughes; 1984: Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
 - MIT 6.001 Structure and Interpretation, 1986
  - [1A: Overview and Introduction to Lisp](http://www.youtube.com/watch?v=2Op3QLzMgSY)
