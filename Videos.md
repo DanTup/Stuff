@@ -1,5 +1,6 @@
 # Watched
 
+- [Zed A. Shaw: The Web Will Die When OOP Dies](http://vimeo.com/43380467)
 - [Bret Victor: Inventing on Principle](http://vimeo.com/36579366)
 - [Rich Hickey: The Value of Values](http://www.youtube.com/watch?v=-6BsiVyC1kM)
 - [Rich Hickey: Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey)
