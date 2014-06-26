@@ -15,6 +15,7 @@
 - [Bart De Smet: MinLINQ - The Essence of LINQ](http://channel9.msdn.com/Shows/Going+Deep/Bart-De-Smet-MinLINQ-The-Essence-of-LINQ)
 - [Phil Trelford: Examples, Examples, Examples](http://skillsmatter.com/podcast/java-jee/examples-examples-examples)
 - [Ian Cooper: TDD, where did it all go wrong](http://vimeo.com/68375232)
+- [Jez Humble: Continuous Delivery; Berlin](http://youtu.be/skLJuksCRTw)
 - [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 - [Guy Steele: Growing a Language](http://youtu.be/_ahvzDzKdB0)
 - [(Paper) John Hughes; 1984: Why Functional Programming Matters](http://www.cse.chalmers.se/~rjmh/Papers/whyfp.pdf)
