@@ -1,0 +1,22 @@
+<script type='text/javascript' src='http://www.google.com/jsapi'></script>
+<script type='text/javascript'>
+function isNearUK() {
+	// Niave check for inside a (non-square!) box
+	var loc = google.loader.ClientLocation;
+	return loc && loc.latitude > 35 && loc.latitude < 70 && loc.longitude > -15 && loc.longitude < 40;
+}
+
+// Figure out which data to use
+var probablyPrefersUk = isNearUK();
+
+// Variables
+var amazon_ad_tag = probablyPrefersUk ? 'ukdt-21' : 'usdt-20';
+var amazon_ad_width = '728';
+var amazon_ad_height = '90';
+var amazon_ad_link_target = 'new';
+var amazon_ad_categories = 'adfegn'
+var ad_script = probablyPrefersUk ? 'http://ir-uk.amazon-adsystem.com/s/ads.js' : 'http://ir-na.amazon-adsystem.com/s/ads.js';
+
+document.write('<scr' + 'ipt type="text/javascript" src="' + ad_script + '"></scr' + 'ipt>');
+
+</script>
